@@ -1,0 +1,14 @@
+*
+
+!results/
+!code/
+!architectures/
+
+!results/**
+!code/*.ipynb
+!code/*.py
+!architectures/**
+
+!README.md
+!requirements.txt
+!.gitignore
